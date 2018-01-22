@@ -1,5 +1,5 @@
 1.   Change Directory: cd
-2.   Create a Directory: mkdir
+2.   Create a Directory: mkdir directory_name
 3.   Rename a Directory: mv old_name new_name
 4.   List the contents of a directory: ls
 5.   Move a file to a new location: mv file_name /directory_name
